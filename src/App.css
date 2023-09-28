@@ -50,9 +50,15 @@ button {
 .menu__icon:hover span:nth-child(3) {
   transform: translateY(-11px) rotate(45deg);
 }
+#abelhinha{
+  background-color: lightgray;
+  border-radius: 40px;
+  width: 95px;
+  height: 95px;
+}
 
 #navbar{
-  width: 100vw;
+  width: 100%;
   height: 60px;
   background-color: #52B788;
   display: flex;
@@ -73,11 +79,129 @@ ul{
   justify-content: space-between;
   padding: 10px;
   width: 150px;
-  height: 100vh;
-  background-color: #52B788;
+  height: 100%;
+  background-color: #3CA272;
 }
 
 #Menu li{
   margin-top: 10px;
   cursor: pointer;
+}
+.Carrosel li{
+  position: relative;
+  left: -550px;
+  animation: slide 15s infinite ease-out;
+}
+.Carrosel{
+  border-radius: 40px;
+  overflow: hidden;
+  width: 550px;
+  height: 450px;
+  margin: 40px auto;
+}
+.Carrosel ul{
+  display: flex;
+  list-style: none;
+  width: 1650px;
+  height: 450px;
+}
+img{  
+  border-radius: 40px;
+  width: 550px;
+  height: 450px;
+}
+#titulorotas{
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+#ContainerRotas{
+  height: 800px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+#containerRotas{
+  justify-content: space-around;
+  width: 100%;
+  display:  flex;
+}
+.cardcon{
+  padding: 1em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #52B788;
+  width: 400px;
+  height: 450px;
+}
+#titulorotaplanta{
+  text-align: center;
+
+}
+.cardcon button{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 250px;
+  font-weight: bold;
+  color: white;
+  background-color: #3CA272;
+  padding: 1em 2em;
+  border: none;
+  border-radius: .6rem;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+@media (max-width: 500px ) {
+  *{
+    margin: 0px ;
+  }
+  #Menu{
+    width: 80px;
+    font-size: 15px;
+  }
+  #navbar{
+    height: 50px;
+  }
+  #tituloNav{
+  margin-left:60px;
+  }
+  .menu__icon{
+    margin-left: 10px ;
+  }
+  .Carrosel{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    margin: 20px auto;
+  }
+  .Carrosel ul{
+    width: 540px;
+    height: 180px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -180px;
+    animation: slide2 15s infinite ease-out;
+  }
+  img{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -180px;}
+    66%{left: -360px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+}
+@keyframes slide{
+  0%{left: 0px;}
+  33%{left: -350px;}
+  66%{left: -700px;}
+  99%{left: 0px;}
+  100%{left: 0px;}
 }
