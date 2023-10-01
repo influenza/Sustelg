@@ -1,0 +1,26 @@
+#TituloCom{
+    padding: 20px;
+    font-size: 20px;
+    float: left;
+    margin-bottom: 20px;
+}
+#txtCom{
+    margin-left: 20px;
+    width: 210px;
+}
+#imagem1{
+    float: right;
+    width: 220px;
+    height: 240px;
+    border:solid lightgray;
+    background-color: lightgray;
+    border-radius: 40px;
+    padding-top: 10px ;
+    margin-top: 80px;
+    margin-right: 20px; 
+}
+#composteirasvg{
+    float: right;
+    margin-top: -60px;
+    margin-right: 50px;
+}

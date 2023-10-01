@@ -1,0 +1,193 @@
+
+@media (max-width: 500px) {
+    #plantasTitulo{
+        padding: 15px;
+        font-size: 18px;
+    }
+    #Lambari{
+        padding: 20px;
+    }
+    #Texto4{
+        width: 190px;
+    }
+    #botao1plantas{
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Azulzinhatitulo{
+        padding: 20px;
+        margin-left: 300px;
+    }
+    #Texto5{
+        margin-bottom: 20px;
+    }
+    #FtProjeto5{
+        float: left;
+        width: 220px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-right: 20px;
+
+    }
+    #FtProjeto6{
+        float: right;
+        width: 220px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+    #FtProjeto2{
+        float: right;
+        width: 220px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-right: 20px;
+    }
+    #FtProjeto3{
+        margin-top: 20px;
+        float: right;
+        width: 220px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-right: 20px;
+    
+    }
+    #Gazaniatitulo{
+        padding: 20px;
+    }
+    #FtProjeto7{
+        margin-top: 20px;
+        float: left;
+        width: 200px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-left: 20px;
+    
+    }
+    #Texto6{
+        margin-right: 20px;
+        float: right;
+        width: 180px;
+    }
+    #FtProjeto8{
+        margin-top: 20px;
+        float: left;
+        width: 200px;
+        height: 180px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-left: 20px;
+    
+    }
+    #botao3plantas{
+        text-align: center;
+        justify-content: center;
+        padding-left: 30px;
+    }
+    #botao3plantas button{
+        font-family: Arial, Helvetica, sans-serif;
+        width: 150px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;   
+        background-color: #3CA272;
+    }
+    
+    #botao1plantas button{
+        font-family: Arial, Helvetica, sans-serif;
+        width: 250px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;   
+        background-color: #3CA272;
+    }
+    #Introdução_Plantas{
+        background-image: url("../fundo.png");
+        font-size: 10px;
+        height: 500px;
+    }
+    #Introdução_Plantas #Texto1{
+        float: left;
+        width: 200px;
+        padding: 20px;
+        font-size: 12px;
+    }
+    #botao2plantas{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    #botao2plantas button{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 80px;
+        width: 150px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;   
+        background-color: #3CA272;
+    }
+    #Introdução_Plantas #Texto2{
+        float: right;
+        width: 200px;
+        padding: 20px;
+        padding-top: 150px;
+        font-size: 12px;
+    }
+    #Flora{
+        margin-top: 30px;
+        font-size: 14px;
+    }
+    #Flora p {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #Texto3{
+        margin-left: 30px;
+        height: 200px;
+        width: 200px;
+        font-size: 14px;
+    }
+    #img1{
+        background-color: gray;
+        margin-right: 30px  ;
+        float: right;
+        width: 180px;
+        height: 180px;
+    }
+    #beterraba{
+        float: right;
+        margin-top: -50px;
+    }
+}   

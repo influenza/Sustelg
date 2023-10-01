@@ -1,3 +1,4 @@
+import Abelhinha from './Abelha'
 import { Menu } from './Menu'
 import { useState } from 'react'
 export function Navbar(){
@@ -20,8 +21,11 @@ export function Navbar(){
     <span></span>
   </button>
 </div>
-<div id='tituloNav'>Projeto</div>
-<div id='abelhinha'><img src="" alt="" /></div>
+<div id='tituloNav'>EcoSistema</div>
+<div id='divpai'>
+<div id='divS'></div>
+<div id='abelinha'><Abelhinha/></div>
+</div>
 </div>
 {menubar && <Menu/>}
 </>

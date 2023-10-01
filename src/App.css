@@ -3,8 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+#titulocentral{
+  margin-left: 20px;
+}
 body{
   background-color: #40916C;
+  overflow-x: hidden ;
 }
 /* <reset-style> ============================ */
 button {
@@ -51,12 +55,16 @@ button {
   transform: translateY(-11px) rotate(45deg);
 }
 #abelhinha{
-  background-color: lightgray;
-  border-radius: 40px;
   width: 95px;
   height: 95px;
+  margin-left: 400px;
 }
-
+#divpai{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
 #navbar{
   width: 100%;
   height: 60px;
@@ -74,6 +82,8 @@ ul{
 }
 
 #Menu{
+  margin-top: 50px;
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -91,20 +101,20 @@ ul{
   position: relative;
   left: -550px;
   animation: slide 15s infinite ease-out;
+  margin-left: 12px;
 }
 .Carrosel{
   border-radius: 40px;
   overflow: hidden;
   width: 550px;
   height: 450px;
-  margin: 40px auto;
 }
 .Carrosel ul{
   display: flex;
   list-style: none;
   width: 1650px;
   height: 450px;
-}
+} 
 img{  
   border-radius: 40px;
   width: 550px;
@@ -114,8 +124,14 @@ img{
   font-size: 40px;
   padding-bottom: 20px;
 }
+#titulo{
+  width: 100%;
+  text-align: center;
+}
+
 #ContainerRotas{
-  height: 800px;
+  margin-top: -50px;
+  height: 400px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -127,7 +143,6 @@ img{
   display:  flex;
 }
 .cardcon{
-  padding: 1em;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -158,11 +173,32 @@ img{
     margin: 0px ;
   }
   #Menu{
-    width: 80px;
-    font-size: 15px;
+    z-index: 1;
+    text-align: center;
+    width: 170px;
+    height: 100%;
+    font-size: 12px;
+    display: flex;
+    position: fixed  ;
   }
+  #Menu li{
+    height: 30px;
+    margin-bottom: 20px;
+  }
+  #Menu a{
+    text-decoration: none;
+  }
+  
+  svg{
+    margin-top: -5px;
+    margin-left: 6px;
+    float: left;
+  }
+  
   #navbar{
     height: 50px;
+    position: fixed;
+    z-index: 2;
   }
   #tituloNav{
   margin-left:60px;
@@ -174,7 +210,6 @@ img{
     border-radius: 20px;
     width: 180px;
     height: 180px;
-    margin: 20px auto;
   }
   .Carrosel ul{
     width: 540px;
@@ -192,16 +227,66 @@ img{
   }
   @keyframes slide2{
     0%{left: 0px;}
-    33%{left: -180px;}
-    66%{left: -360px;}
+    33%{left: -192px;}
+    66%{left: -384px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+  body{
+    overflow-x: hidden ;
+  }
+  .cardcon{
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #52B788;
+    width: 130px;
+    height: 300px;
+  }
+  .cardcon .button1{
+    width: 100px;
+    font-weight: bold;
+    color: white;
+    background-color: #3CA272;
+    padding: 1em 2em;
+    border: none;
+    border-radius: .6rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+  }
+  .cardcon .Carrosel{
+    width: 110px;
+    height: 180px;
+  }
+  .cardcon .Carrosel ul{
+    width: 340px;
+    height: 180px;
+  }
+  .cardcon .Carrosel li{
+    left: -110px;
+    animation: slide3 15s infinite ease-out;
+    margin-left: 10px;
+  }
+  .cardcon img{
+    border-radius: 20px;
+    width: 110px;
+    height: 180px;
+  }
+  @keyframes slide3{
+    0%{left: 0px;}
+    33%{left: -120px;}
+    66%{left: -240px;}
     99%{left: 0px;}
     100%{left: 0px;}
   }
 }
 @keyframes slide{
   0%{left: 0px;}
-  33%{left: -350px;}
-  66%{left: -700px;}
+  33%{left: -362px;}
+  66%{left: -724px;}
   99%{left: 0px;}
   100%{left: 0px;}
 }

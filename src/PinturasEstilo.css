@@ -1,0 +1,90 @@
+#PinturasTitulo{
+  padding: 20px;
+  margin: 0px;
+}
+#Texto1Pin{
+  margin-left: 20px;
+  width: 240px;
+}
+#Pica{
+  float: right;
+  margin-top: 50px;
+  margin-right: 70px;
+
+}
+#Rola{
+  margin-top: -50px;
+  margin-left: 70px;
+}
+#FtProjeto2Pin{
+  margin-right: 20px;
+  width: 190px;
+  height: 185px;
+  border:solid lightgray;
+  background-color: lightgray;
+  border-radius: 40px;
+  float: right;
+}
+#grafite{
+  padding-top: 50px;
+  font-size: 20px;
+  text-align: center;
+}
+#Parte2Grafite{
+  margin-top: 300px;
+
+}
+#imagem1grafiteantes{
+  text-align: center;
+}
+#imagem1grafiteantes p {
+  padding: 10px;
+}
+#imagem2grafiteantes{
+  text-align: center;
+}
+#imagem2grafiteantes p {
+  padding: 10px;
+}
+#congraimg2{
+  display: flex;
+  gap: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#grafitecarinha{
+  margin-top: 150px;
+  margin-left: -30px;
+}
+.congraimg2 #AntesDepo{
+  width: 200px;
+  height: 180px;
+}
+.congraimg2 #AntesDepo ul{
+  width: 600px;
+  height: 180px;
+}
+.congraimg2 #AntesDepo li{
+  left: -200px;
+  animation: slide4 15s infinite ease-out;
+  margin-left: 10px;
+}
+.congraimg2 img{
+  border-radius: 20px;
+  width: 200px;
+  height: 180px;
+}
+@keyframes slide4{
+  0%{left: 0px;}
+  33%{left: -210px;}
+  66%{left: -420px;}
+  99%{left: 0px;}
+  100%{left: 0px;}
+}
+
+#Texto2Pin{
+  float: right;
+  margin: 20px;
+  width: 240px;
+  font-size: 14px;
+}

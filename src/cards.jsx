@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import Carrosel from "./Carrosel";
+import BotaoDefault from "./BotaoDefault";
 
 export default function Cards(props){
     const titulo = props.titulo
@@ -11,7 +12,7 @@ export default function Cards(props){
         <div className="cardcon">
                 <div>{titulo}</div>
                 <Carrosel imagem1={img1} imagem2={img2} imagem3={img3}/>
-                <button type="submit"><Link to={rotas}>Saiba Mais</Link></button>
+                <BotaoDefault rotas={rotas} />
         </div>
     )
 }
