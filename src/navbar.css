@@ -1,0 +1,26 @@
+@media (max-width: 500px) {
+    #navbar{
+        width: 100%;
+        height: 60px;
+        background-color: #52B788;
+        display: flex;
+        align-items: center;
+      }
+      #abelhinha{
+        width: 95px;
+        height: 95px;
+        margin-left: 400px;
+      }
+      #divpai{
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+      }
+      
+      
+      #tituloNav{
+        margin-left: 80px;
+        font-size: 30px;
+      }
+}

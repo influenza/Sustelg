@@ -1,0 +1,72 @@
+@media (min-width: 500px ) {
+#plantasTitulo{
+    margin-top: 100px;
+  }
+  #Sapo{
+    margin-top: -135px;
+    float: left;
+    margin-left: -160px;
+  }
+  #terrasvg svg{
+    padding-top: -20px;
+    margin-top: -104px;
+    margin-bottom: 30px;
+  }
+  #Arvore{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 190px;
+    
+  }
+  #Texto1{
+    float: left;
+    width: 230px;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 200px;
+  }
+  #Introdução_Plantas #Texto1{
+    float: left;
+    width: 220px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+}
+
+@media (min-width: 480px ) {
+    #plantasTitulo{
+        font-size: 28px;
+        margin-top: 100px;
+      }
+      #Sapo{
+        margin-top: -135px;
+        float: left;
+        margin-left: -160px;
+      }
+      #terrasvg svg{
+        padding-top: -20px;
+        margin-top: -104px;
+        margin-bottom: 30px;
+      }
+      #Arvore{
+        width: 220px;
+        height: 200px;
+        margin-left: 30px;
+        margin-top: 190px;
+        
+      }
+      #Texto1{
+        float: left;
+        width: 230px;
+        margin-left: 20px;
+        font-size: 20px;
+
+      }
+      #Introdução_Plantas #Texto1{
+        float: left;
+        width: 220px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    }

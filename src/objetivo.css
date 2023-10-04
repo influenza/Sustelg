@@ -1,0 +1,111 @@
+@media (min-width: 500px ) {
+#tituloobj{
+    font-weight: bold;
+    font-size: 30px;
+    padding: 15px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    margin-top: -20px;
+}
+#titulolistaobj{
+    font-size: 18px;
+    padding: 10px;
+    margin-left: 65px;
+}
+#OBJETIVOS{
+    margin-left: 20px;
+}
+.lista{
+    margin-left: 70px;
+    padding-bottom: 10px;
+}
+#objetivo{
+    float: right;
+    width: 200px;
+    height: 250px;
+    margin-right: 30px;
+    margin-top: -40px;
+}
+#objetivo1{
+    background-color: red;
+    float: right;
+    width: 200px;
+    height: 280px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+#txtobj{
+    width: 200px;
+    padding-top: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+#txtobj1{
+    width: 200px;
+    padding-top: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+#objetivoContainer{
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+}
+@media (min-width: 480px ) {
+    #tituloobj{
+        font-weight: bold;
+        font-size: 28px;
+        padding: 15px;
+        margin-left: 40px;
+        margin-bottom: 50px;
+        margin-top: -20px;
+    }
+    #titulolistaobj{
+        font-size: 18px;
+        padding: 10px;
+        margin-left: 65px;
+    }
+    #OBJETIVOS{
+        margin-left: 20px;
+    }
+    .lista{
+        margin-left: 80px;
+        padding-bottom: 10px;
+    }
+    #objetivo{
+        float: right;
+        width: 190px;
+        height: 250px;
+        margin-right: 60px;
+        margin-top: -10px;
+    }
+    #Listas svg{
+        margin-left: 50px;
+        margin-bottom: 20px;
+    }
+    #objetivo1{
+        background-color: red;
+        float: right;
+        width: 190px;
+        height: 280px;
+        margin-right: 20px;
+        margin-top: 20px;
+
+    }
+    #txtobj{
+        width: 200px;
+        padding-top: 40px;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    #txtobj1{
+        width: 200px;
+        padding-top: 40px;
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    #objetivoContainer{
+        margin-bottom: 70px;
+        margin-top: 70px;
+    }
+    }

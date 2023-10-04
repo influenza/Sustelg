@@ -1,4 +1,4 @@
-
+@media (min-width: 500px) {
 #Containerintrodução{
   padding-top:60px ;
   padding-bottom: 60px;
@@ -11,18 +11,7 @@
   #FtProjeto2{
     float: right;
 }
-#titulocentral2{
- font-size: 30px;
- text-align: center;
- margin-bottom: 20px;
-}
-#TextoCentral2{
-  width: 96%;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-bottom: 150px;
-  font-size: 20px;
-}
+
 #FtProjeto{
   background-color: lightgray;
   border-radius: 40px;
@@ -31,36 +20,6 @@
   margin-top: 40px;
 }
       
-#centralfotosvg{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-#centralfotosvg svg{
-  margin-top: 30px;
-}
-  #FtCentral{
-    width: 220px;
-    
-    float: right;
-    margin-top: 20px;
-    margin-right: 20px;
-  }
-  #fotocentral1 svg{
-    float: right;
-    margin-top: 20px;
-    margin-right: 20px;
-    z-index: 1;
-  }
-  #partecentral{
-    display: flex;
-  }
-  .DescCentral{
-    margin-top: 20px;
-    width: 230px;
-    font-size: 20px;
-    margin-left: 20px;
-  }
   #TitDescProj{
     text-align: left;
     margin-left: 30px;
@@ -79,18 +38,18 @@
     height: 95px;
   }
 
-  @media (max-width: 500px) {
+
     #div1txtcarrosel{
       margin-left: 50px;
     }
     #TitDescProj{
       margin-top: 15px;
       text-align: center;
-      font-size: 20px;
+      font-size: 30px;
     }
     #parte2{
       padding-top: 60px;
-      margin-bottom: 60px;
+      margin-bottom: 100px;
     }
 
     #blue{
@@ -116,7 +75,6 @@
       .DescProjeto{
         text-align: justify;
         margin-top: 60px;
-        margin-right: 200px;
         margin-left: 250px;
         width: 220px;
         height: 190px;
@@ -139,3 +97,499 @@
       margin-top: 270px;
     }
   }
+  @media (min-width: 480px) {
+    #Containerintrodução{
+      padding-top:60px ;
+      padding-bottom: 60px;
+    }
+      #FtProjeto{
+          float: left;
+          margin-top: 50px;
+          margin-left: 20px;
+      }
+      #FtProjeto2{
+        float: right;
+    }
+    
+    #FtProjeto{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 180px;
+      margin-top: 40px;
+    }
+          
+      #TitDescProj{
+        text-align: left;
+        margin-left: 30px;
+      }
+      #FtRelogio{
+        background-color: lightgray;
+        border-radius: 40px;
+        width: 300px;
+        height: 300px;
+        margin-top: 20px;;
+      }
+      #FtGlobo{
+        background-color: lightgray;
+        border-radius: 40px;
+        width: 95px;
+        height: 95px;
+      }
+    
+    
+        #div1txtcarrosel{
+          margin-left: 50px;
+        }
+        #TitDescProj{
+          margin-top: 15px;
+          text-align: center;
+          font-size: 30px;
+        }
+        #parte2{
+          padding-top: 60px;
+          margin-bottom: 120px;
+        }
+    
+        #blue{
+          margin-top: 320px;
+          margin-left: -30px;
+        }
+        #FtProjeto1{
+          float: left;
+          width: 180px;
+          height: 280px;
+          border:solid lightgray;
+          background-color: lightgray;
+          border-radius: 40px;
+          padding-top: 10px ;
+          margin-top: 60px;
+          margin-left: 20px;
+          margin-bottom: 20px;
+        }
+        #Mico{
+          margin-top: -120px;
+          margin-left: -80px;
+        }
+          .DescProjeto{
+            text-align: justify;
+            margin-top: 60px;
+            margin-left: 250px;
+            width: 220px;
+            height: 190px;
+            font-size: 19.5px;
+        }
+        #txtparte2{
+          margin-top: 120px;
+          margin-left: 20px;
+          width: 200px;
+          height: 200px;
+          font-size: 19.5px;
+        }
+        #FtProjeto2{
+          margin-right: -50px;
+          margin-top: 120px;
+        }
+        #foto2 svg{
+          float: right;
+          margin-right: -250px;
+          margin-top: 260px;
+        }
+      }
+      @media (min-width: 460px) {
+        #Containerintrodução{
+          padding-top:60px ;
+          padding-bottom: 90px;
+        }
+          #FtProjeto{
+              float: left;
+              margin-top: 50px;
+              margin-left: 20px;
+          }
+          #FtProjeto2{
+            float: right;
+        }
+        
+        #FtProjeto{
+          background-color: lightgray;
+          border-radius: 40px;
+          width: 170px;
+          height: 170px;
+          margin-top: 40px;
+        }
+              
+          #TitDescProj{
+            text-align: left;
+            margin-left: 30px;
+          }
+          #FtRelogio{
+            background-color: lightgray;
+            border-radius: 40px;
+            width: 300px;
+            height: 300px;
+            margin-top: 20px;;
+          }
+          #FtGlobo{
+            background-color: lightgray;
+            border-radius: 40px;
+            width: 95px;
+            height: 95px;
+          }
+        
+        
+            #div1txtcarrosel{
+              margin-left: 50px;
+            }
+            #TitDescProj{
+              margin-top: 15px;
+              text-align: center;
+              font-size: 28px;
+            }
+            #parte2{
+              padding-top: 60px;
+              margin-bottom: 60px;
+            }
+        
+            #blue{
+              margin-top: 320px;
+              margin-left: -30px;
+            }
+            #FtProjeto1{
+              float: left;
+              width: 180px;
+              height: 280px;
+              border:solid lightgray;
+              background-color: lightgray;
+              border-radius: 40px;
+              padding-top: 10px ;
+              margin-top: 60px;
+              margin-left: 20px;
+              margin-bottom: 20px;
+            }
+            #Mico{
+              margin-top: -80px;
+              margin-left: -80px;
+            }
+              .DescProjeto{
+                text-align: justify;
+                margin-top: 60px;
+                margin-left: 250px;
+                width: 220px;
+                height: 190px;
+                font-size: 18.5px;
+            }
+            #txtparte2{
+              margin-top: 120px;
+              margin-left: 20px;
+              width: 200px;
+              height: 200px;
+              font-size: 18.5px;
+            }
+            #FtProjeto2{
+              margin-right: -50px;
+              margin-top: 120px;
+            }
+            #foto2 svg{
+              float: right;
+              margin-right: -250px;
+              margin-top: 260px;
+            }
+          }
+          @media (max-width: 440px) {
+            #Containerintrodução{
+              padding-top:60px ;
+              padding-bottom: 90px;
+            }
+              #FtProjeto{
+                  float: left;
+                  margin-top: 50px;
+                  margin-left: 20px;
+              }
+              #FtProjeto2{
+                float: right;
+            }
+            
+            #FtProjeto{
+              background-color: lightgray;
+              border-radius: 40px;
+              width: 170px;
+              height: 170px;
+              margin-top: 40px;
+            }
+                  
+              #TitDescProj{
+                text-align: left;
+                margin-left: 30px;
+              }
+              #FtRelogio{
+                background-color: lightgray;
+                border-radius: 40px;
+                width: 300px;
+                height: 300px;
+                margin-top: 20px;;
+              }
+              #FtGlobo{
+                background-color: lightgray;
+                border-radius: 40px;
+                width: 95px;
+                height: 95px;
+              }
+            
+            
+                #div1txtcarrosel{
+                  margin-left: 50px;
+                }
+                #TitDescProj{
+                  margin-top: 15px;
+                  text-align: center;
+                  font-size: 28px;
+                }
+                #parte2{
+                  padding-top: 60px;
+                  margin-bottom: 60px;
+                }
+            
+                #blue{
+                  margin-top: 320px;
+                  margin-left: -30px;
+                }
+                #FtProjeto1{
+                  float: left;
+                  width: 180px;
+                  height: 280px;
+                  border:solid lightgray;
+                  background-color: lightgray;
+                  border-radius: 40px;
+                  padding-top: 10px ;
+                  margin-top: 60px;
+                  margin-left: 20px;
+                  margin-bottom: 20px;
+                }
+                #Mico{
+                  margin-top: -80px;
+                  margin-left: -80px;
+                }
+                  .DescProjeto{
+                    text-align: justify;
+                    margin-top: 60px;
+                    margin-left: 250px;
+                    width: 220px;
+                    height: 190px;
+                    font-size: 19px;
+                }
+                #txtparte2{
+                  margin-top: 120px;
+                  margin-left: 20px;
+                  width: 200px;
+                  height: 200px;
+                  font-size: 19px;
+                }
+                #FtProjeto2{
+                  margin-right: -50px;
+                  margin-top: 120px;
+                }
+                #foto2 svg{
+                  float: right;
+                  margin-right: -250px;
+                  margin-top: 260px;
+                }
+              }
+              @media (max-width: 420px) {
+                #Containerintrodução{
+                  padding-top:60px ;
+                  padding-bottom: 90px;
+                }
+                  #FtProjeto{
+                      float: left;
+                      margin-top: 50px;
+                      margin-left: 20px;
+                  }
+                  #FtProjeto2{
+                    float: right;
+                }
+                
+                #FtProjeto{
+                  background-color: lightgray;
+                  border-radius: 40px;
+                  width: 170px;
+                  height: 170px;
+                  margin-top: 40px;
+                }
+                      
+                  #TitDescProj{
+                    text-align: left;
+                    margin-left: 30px;
+                  }
+                  #FtRelogio{
+                    background-color: lightgray;
+                    border-radius: 40px;
+                    width: 300px;
+                    height: 300px;
+                    margin-top: 20px;;
+                  }
+                  #FtGlobo{
+                    background-color: lightgray;
+                    border-radius: 40px;
+                    width: 95px;
+                    height: 95px;
+                  }
+                
+                
+                    #div1txtcarrosel{
+                      margin-left: 50px;
+                    }
+                    #TitDescProj{
+                      margin-top: 15px;
+                      text-align: center;
+                      font-size: 28px;
+                    }
+                    #parte2{
+                      padding-top: 60px;
+                      margin-bottom: 60px;
+                    }
+                
+                    #blue{
+                      margin-top: 320px;
+                      margin-left: -30px;
+                    }
+                    #FtProjeto1{
+                      float: left;
+                      width: 180px;
+                      height: 280px;
+                      border:solid lightgray;
+                      background-color: lightgray;
+                      border-radius: 40px;
+                      padding-top: 10px ;
+                      margin-top: 60px;
+                      margin-left: 20px;
+                      margin-bottom: 20px;
+                    }
+                    #Mico{
+                      margin-top: -80px;
+                      margin-left: -80px;
+                    }
+                      .DescProjeto{
+                        text-align: justify;
+                        margin-top: 60px;
+                        margin-left: 250px;
+                        width: 220px;
+                        height: 190px;
+                        font-size: 19px;
+                    }
+                    #txtparte2{
+                      margin-top: 120px;
+                      margin-left: 20px;
+                      width: 200px;
+                      height: 200px;
+                      font-size: 19px;
+                    }
+                    #FtProjeto2{
+                      margin-right: -50px;
+                      margin-top: 120px;
+                    }
+                    #foto2 svg{
+                      float: right;
+                      margin-right: -250px;
+                      margin-top: 260px;
+                    }
+                  }
+                  @media (max-width: 440px) {
+                    #Containerintrodução{
+                      padding-top:60px ;
+                      padding-bottom: 90px;
+                    }
+                      #FtProjeto{
+                          float: left;
+                          margin-top: 50px;
+                          margin-left: 20px;
+                      }
+                      #FtProjeto2{
+                        float: right;
+                    }
+                    
+                    #FtProjeto{
+                      background-color: lightgray;
+                      border-radius: 40px;
+                      width: 170px;
+                      height: 170px;
+                      margin-top: 40px;
+                    }
+                          
+                      #TitDescProj{
+                        text-align: left;
+                        margin-left: 30px;
+                      }
+                      #FtRelogio{
+                        background-color: lightgray;
+                        border-radius: 40px;
+                        width: 300px;
+                        height: 300px;
+                        margin-top: 20px;;
+                      }
+                      #FtGlobo{
+                        background-color: lightgray;
+                        border-radius: 40px;
+                        width: 95px;
+                        height: 95px;
+                      }
+                    
+                    
+                        #div1txtcarrosel{
+                          margin-left: 50px;
+                        }
+                        #TitDescProj{
+                          margin-top: 15px;
+                          text-align: center;
+                          font-size: 28px;
+                        }
+                        #parte2{
+                          padding-top: 60px;
+                          margin-bottom: 60px;
+                        }
+                    
+                        #blue{
+                          margin-top: 320px;
+                          margin-left: -30px;
+                        }
+                        #FtProjeto1{
+                          float: left;
+                          width: 180px;
+                          height: 280px;
+                          border:solid lightgray;
+                          background-color: lightgray;
+                          border-radius: 40px;
+                          padding-top: 10px ;
+                          margin-top: 60px;
+                          margin-left: 20px;
+                          margin-bottom: 20px;
+                        }
+                        #Mico{
+                          margin-top: -80px;
+                          margin-left: -80px;
+                        }
+                          .DescProjeto{
+                            text-align: justify;
+                            margin-top: 60px;
+                            margin-left: 250px;
+                            width: 220px;
+                            height: 190px;
+                            font-size: 19px;
+                        }
+                        #txtparte2{
+                          margin-top: 120px;
+                          margin-left: 20px;
+                          width: 200px;
+                          height: 200px;
+                          font-size: 19px;
+                        }
+                        #FtProjeto2{
+                          margin-right: -50px;
+                          margin-top: 120px;
+                        }
+                        #foto2 svg{
+                          float: right;
+                          margin-right: -250px;
+                          margin-top: 260px;
+                        }
+                      }
+              

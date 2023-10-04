@@ -11,15 +11,9 @@ export function Plantas(){
     return(
         <>
            <div id="Introdução_Plantas">
+
 </div>
-<div id="Flora"><p>NOSSA FLORA</p>
-<div id="img1"><Jardineira/></div>
-<div id="Texto3">
-        Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
-                   Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
-            Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben'
-    </div>  
-    </div>
+
         <div id="Lambari">
         <h2 id="Lambari">Lambari</h2>
         <div id="FtProjeto2"><Lambari/></div>

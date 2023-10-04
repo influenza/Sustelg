@@ -1,3 +1,4 @@
+@media (min-width: 500px ) {
 #PinturasTitulo{
   padding: 20px;
   margin: 0px;
@@ -8,13 +9,21 @@
 }
 #Pica{
   float: right;
-  margin-top: 50px;
-  margin-right: 70px;
-
-}
-#Rola{
   margin-top: -50px;
-  margin-left: 70px;
+  margin-right: 70px;
+}
+#Pica svg{
+  margin-top: -60px;
+  margin-right: 10px;
+
+  transform: rotate(360deg);
+} 
+#FtProjeto1Pin{
+  margin-right: 20px;
+  width: 190px;
+  height: 185px;
+  border-radius: 40px;
+  float: right;
 }
 #FtProjeto2Pin{
   margin-right: 20px;
@@ -92,3 +101,136 @@
   margin-left: -100px;
   margin-top: 20px;
 }
+}
+@media (min-width: 480px ) {
+  #PinturasTitulo{
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 28px;
+  }
+  #Texto1Pin{
+    font-size: 20px;
+    margin-left: 20px;
+    width: 240px;
+  }
+  #Pica{
+    float: right;
+    margin-top: -50px;
+    margin-right: 70px;
+  }
+  #Pica svg{
+    margin-top: 60px;
+    margin-left: 30px;
+  
+    transform: rotate(360deg);
+  } 
+  #FtProjeto1Pin{
+    margin-right: 20px;
+    width: 190px;
+    height: 185px;
+    border-radius: 40px;
+    float: right;
+  }
+  #FtProjeto2Pin{
+    margin-right: 30px;
+    width: 190px;
+    height: 185px;
+    border:solid lightgray;
+    background-color: lightgray;
+    border-radius: 40px;
+    float: right;
+  }
+  #grafite{
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: center;
+  }
+  #Parte2Grafite{
+    margin-top: 500px;
+  
+  }
+  #imagem1grafiteantes{
+    text-align: center;
+  }
+  #imagem1grafiteantes p {
+    padding: 10px;
+  }
+  #imagem2grafiteantes{
+    text-align: center;
+  }
+  #imagem2grafiteantes p {
+    padding: 10px;
+  }
+  #congraimg2{
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  #grafitecarinha{
+    margin-top: 150px;
+    margin-left: -30px;
+  }
+  .congraimg2 #AntesDepo{
+    width: 200px;
+    height: 180px;
+  }
+  .congraimg2 #AntesDepo ul{
+    width: 600px;
+    height: 180px;
+  }
+  .congraimg2 #AntesDepo li{
+    left: -200px;
+    animation: slide4 15s infinite ease-out;
+    margin-left: 10px;
+  }
+  .congraimg2 img{
+    border-radius: 20px;
+    width: 200px;
+    height: 180px;
+  }
+  #FtProjeto3Pin{
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 190px;
+    height: 185px;
+    border-radius: 40px;
+  }
+  #FtProjeto3Pin svg{
+    margin-left: -20px;
+  }
+#Algumacoisa{
+  margin-bottom: 600px;
+}
+  @keyframes slide4{
+    0%{left: 0px;}
+    33%{left: -210px;}
+    66%{left: -420px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+  
+  #Texto2Pin{
+    float: right;
+    margin-right: 20px;
+    width: 240px;
+    font-size: 20px;
+  }
+  #imagem2grafiteantes svg{
+    margin-left: -100px;
+    margin-top: 20px;
+  }
+  #titulografite{
+    margin-bottom: 20px;
+    font-size: 26px;
+  }
+  #Texto3Pin{
+    float: right;
+    width: 240px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  }

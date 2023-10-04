@@ -1,0 +1,27 @@
+@media (max-width: 500px ) {
+#Flora{
+
+    margin-bottom: 350px;
+    margin-top: 30px;
+    font-size: 14px;
+}
+#Flora p {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+#Texto3{
+    float: right;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+}
+#img1{
+    float: left;
+    background-color: gray;
+    margin-left: 20px  ;
+    width: 180px;
+    height: 180px;
+}
+}

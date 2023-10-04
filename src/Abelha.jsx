@@ -1,7 +1,8 @@
-export default function Abelhinha(){
+export default function Abelhinha(props){
+  const Abelha = props.Abelha
     return(
         <>
-<svg height="95" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="156.8 140.1 654.1 681.2" width="95"    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" 
+<svg height={`${Abelha[0]}`} preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="156.8 140.1 654.1 681.2" width={`${Abelha[1]}`}    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" 
 ><g id="change1_1"
   ><path d="m624.366,194.045c-10.637-24.867-34.482-43.285-60.994-48.636-26.512-5.351-55.032,2.024-76.506,18.467-32.089,24.57-46.869,66.335-49.384,106.672-2.514,40.336,4.135,82.609,11.068,119.54-7.731-34.856-14.477-57.855-22.317-87.099s-19.965-58.49-42.155-79.088c-20.12-18.677-42.534-30.832-69.36-36.662-16.314-3.545-37.756-1.365-53.932,2.765-12.202,3.116-23.371,9.74-32.609,18.299-20.694,19.173-31.372,45.518-32.134,73.718s6.631,54.997,19.561,80.069c6.584,12.769,15.472,26.095,25.348,36.527,25.018,26.426,61.056,39.129,96.268,48.312l253.678-76.286c26.048-37.393,40.628-82.661,41.3-128.227.243-16.454-1.361-33.242-7.833-48.372Z" fill="#a3d6ff"
   /></g

@@ -1,8 +1,13 @@
+@media (min-width: 500px ) {
 #TituloCom{
     padding: 20px;
     font-size: 20px;
     float: left;
     margin-bottom: 20px;
+}
+#macapodre svg{
+    margin-top: -60px;
+    margin-right: 100px;
 }
 #txtCom{
     margin-bottom: 50px;
@@ -19,7 +24,8 @@
     background-color: lightgray;
     border-radius: 40px;
     padding-top: 10px ;
-    margin-top: 80px;
+    margin-top: 40px;
+    margin-bottom: 0px;
     margin-right: 20px; 
 }
 #divProcessos{
@@ -65,9 +71,9 @@
     font-size: 20px;
 }
 #composteirasvg{
-    margin-right: 10px;
     float: right;
-    margin-top: -120px;
+    margin-right: 20px;
+    margin-top: 50px;
 }
 #tituloProcesso{
     margin-bottom: 50px;
@@ -76,9 +82,13 @@
     float: right;
     margin-right: 20px;
 }
-#FtBanco svg{
-    margin-left: -60px;
-    margin-top: 170px;
+#casadospassaros{
+    margin-left: -30px;
+    margin-top: 150px;
+}
+#AraraAzul svg{
+    margin-top: 180px;
+    margin-left: 100px;
 }
 #tituloCasaPassaro{
     text-align: left;
@@ -103,10 +113,14 @@
     border-radius: 40px;
     margin-right: 20px;
 }
-#FtCasadosPassaros svg{
+#casadospassaros{
     margin-top: -100px;
     margin-left: 120px;
 }
 #CasaDosPassaros{
     margin-bottom: 400px;
+}
+#Composteira{
+    margin-bottom: 100px;
+}
 }
