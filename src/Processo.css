@@ -5,8 +5,11 @@
     margin-bottom: 20px;
 }
 #txtCom{
+    margin-bottom: 50px;
+    margin-top: 50px;
     margin-left: 20px;
     width: 210px;
+    font-size: 20px;
 }
 #imagem1{
     float: right;
@@ -19,8 +22,91 @@
     margin-top: 80px;
     margin-right: 20px; 
 }
-#composteirasvg{
+#divProcessos{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    width: 230px;
+    font-size: 20px;
+}
+.processos{
+
+    margin-bottom: 50px;
+}
+#tituloProcesso{
+    padding-top: 80px;
+    margin-left: 20px;
+    font-size: 34px;
+}
+#titulobanco{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.BancoPneu{
+    margin-bottom: 250px;
+    margin-top: 100px;
+}
+#titulobanco{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 30px;
+}
+#FtBanco{
+   width: 230px;
+   height: 200px; 
+   background-color: red;
+   border-radius: 40px;
+   margin-left: 20px;
+}  
+#txtbanco{
     float: right;
-    margin-top: -60px;
-    margin-right: 50px;
+    width: 200px;
+    font-size: 20px;
+}
+#composteirasvg{
+    margin-right: 10px;
+    float: right;
+    margin-top: -120px;
+}
+#tituloProcesso{
+    margin-bottom: 50px;
+}
+#caixadeferramenta{
+    float: right;
+    margin-right: 20px;
+}
+#FtBanco svg{
+    margin-left: -60px;
+    margin-top: 170px;
+}
+#tituloCasaPassaro{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 36px;
+}
+
+#txtPassaroCasa{
+    text-align: left;
+   float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    font-size: 20px;
+}
+#FtCasadosPassaros{
+    margin-top: 20px;
+    float: right;
+    width: 230px;
+    height: 200px; 
+    background-color: red;
+    border-radius: 40px;
+    margin-right: 20px;
+}
+#FtCasadosPassaros svg{
+    margin-top: -100px;
+    margin-left: 120px;
+}
+#CasaDosPassaros{
+    margin-bottom: 400px;
 }

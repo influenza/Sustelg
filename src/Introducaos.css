@@ -1,6 +1,7 @@
 
 #Containerintrodução{
   padding-top:60px ;
+  padding-bottom: 60px;
 }
   #FtProjeto{
       float: left;
@@ -10,21 +11,54 @@
   #FtProjeto2{
     float: right;
 }
+#titulocentral2{
+ font-size: 30px;
+ text-align: center;
+ margin-bottom: 20px;
+}
+#TextoCentral2{
+  width: 96%;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 150px;
+  font-size: 20px;
+}
+#FtProjeto{
+  background-color: lightgray;
+  border-radius: 40px;
+  width: 200px;
+  height: 200px;
+  margin-top: 40px;
+}
+      
+#centralfotosvg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#centralfotosvg svg{
+  margin-top: 30px;
+}
   #FtCentral{
+    width: 220px;
+    
     float: right;
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-right: 0px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  #fotocentral1 svg{
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    z-index: 1;
   }
   #partecentral{
     display: flex;
   }
   .DescCentral{
-    text-align: justify;
-    margin-top: 50px;
-    width: 180px;
-    height: 300px;
-    font-size: 12px;
+    margin-top: 20px;
+    width: 230px;
+    font-size: 20px;
     margin-left: 20px;
   }
   #TitDescProj{
@@ -55,6 +89,7 @@
       font-size: 20px;
     }
     #parte2{
+      padding-top: 60px;
       margin-bottom: 60px;
     }
 
@@ -65,17 +100,17 @@
     #FtProjeto1{
       float: left;
       width: 180px;
-      height: 240px;
+      height: 280px;
       border:solid lightgray;
       background-color: lightgray;
       border-radius: 40px;
       padding-top: 10px ;
-      margin-top: 20px;
+      margin-top: 60px;
       margin-left: 20px;
       margin-bottom: 20px;
     }
     #Mico{
-      margin-top: -90px;
+      margin-top: -120px;
       margin-left: -80px;
     }
       .DescProjeto{
@@ -83,20 +118,24 @@
         margin-top: 60px;
         margin-right: 200px;
         margin-left: 250px;
-        width: 170px;
+        width: 220px;
         height: 190px;
-        font-size: 12px;
+        font-size: 20px;
     }
     #txtparte2{
       margin-top: 120px;
       margin-left: 20px;
-      width: 180px;
+      width: 200px;
       height: 200px;
-      font-size: 12px;
+      font-size: 20px;
     }
     #FtProjeto2{
       margin-right: 70px;
-      margin-top: -5px;
+      margin-top: 120px;
     }
-
+    #foto2 svg{
+      float: right;
+      margin-right: -250px;
+      margin-top: 270px;
+    }
   }

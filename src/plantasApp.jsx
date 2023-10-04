@@ -5,7 +5,7 @@ import { Plantas } from "./plantas";
 export default function PlantaApp(){
     return(
         <>
-        <Navbar/>
+        <Navbar id2="plantas"/>
         <Plantas/>
         <Rodape/>
         </>

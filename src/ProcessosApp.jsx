@@ -5,7 +5,7 @@ import Rodape from "./Rodape";
 export default function ProcessosApp(){
     return(
         <>
-        <Navbar/>
+        <Navbar id2="processos"/>
         <Processos/>
         <Rodape/>
         </>

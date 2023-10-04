@@ -1,17 +1,14 @@
 #SustentabilidadeConSus{
-    height: 450px;
+    margin-bottom: 400px;
   }
-  h2{
-    margin-top:40px;
-    font-size: 22px;
-    margin-left: 30px;
-  }
+
   #Texto1Sus{
+    margin-bottom: 40px;
     float: right;
     width: 180px;
     height: 200px;
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
     margin-right: 30px;
   }
   #Titulo1Pin{
@@ -20,10 +17,10 @@
   }
   #Texto2Sus{
     width: 240px;
-    font-size: 18px;
+    font-size: 20px;
     float: left;
     margin-left: 30px;
-    margin-top: 50px;
+    margin-top: 70px;
   }
   #FtProjeto1Sus{
     width: 220px;
@@ -37,28 +34,46 @@
   }
   #Simbolo3r{
         float: right;
-        margin-top: 130px;
-        margin-left:-20px;
   }
-  
+  #Sapo{
+    float: left;
+    margin-bottom: 65px;
+    margin-top: -70px;
+    margin-left: 20px;
+  }
+  #terrasvg svg{
+    padding-top: -20px;
+    margin-top: -104px;
+    margin-bottom: 30px;
+  }
+  #Terra{
+    margin-top: -40px;
+  }
   #FtProjeto2Sus{
-    margin-top: 30px;
+    margin-top: 60px;
     margin-right: 20px;
     width: 200px;
     height: 180px;
-    border:solid lightgray;
-    background-color: lightgray;
     float:right;
     border-radius: 40px;
   }
   #Titulo2Sus{
     font-size: 30px;
   }
-  #Sus1{
-    margin-left: 1630px;
-    margin-top: -470px;
-  }
   #Sus2{
-  position: absolute;
-  left: 180px;
+    margin-top: -50px;
+    margin-left: 110px;
+  }
+  #titu{
+    margin-left: 20px;
+  }
+  #plantasTitulo{
+    margin-top: 100px;
+  }
+  #Texto1{
+    float: left;
+    width: 230px;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: -140px;
   }

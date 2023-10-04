@@ -1,8 +1,8 @@
 import Abelhinha from './Abelha'
 import { Menu } from './Menu'
 import { useState } from 'react'
-export function Navbar(){
-    
+export function Navbar(props){
+    const id2= props.id2
     const [menubar,setMenubar] = useState(false)
     function handleMenu(){
         if(menubar == false){
@@ -13,7 +13,7 @@ export function Navbar(){
       }
     return(
         <>
-        <div id='navbar'>
+        <div id='navbar' className={id2}>
 <div class="background">
   <button class="menu__icon" onClick={handleMenu}>
     <span></span>

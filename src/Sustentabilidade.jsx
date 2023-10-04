@@ -6,13 +6,13 @@ export default function Sustentabilidade(){
         <>
         <div id="SustentabilidadeConSus">
         <h2 id="titu">SUSTENTABILIDADE</h2>
-        <Vaso/>
+     
         <div id="Texto1Sus">
         Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
         Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
         Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
     </div>
-    <div id="FtProjeto1Sus"></div>
+    <div id="FtProjeto1Sus">   <Vaso/></div>
     <div id="Texto2Sus">
         Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben
         Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben Gabriel Ben

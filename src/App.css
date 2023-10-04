@@ -5,6 +5,7 @@
 }
 #titulocentral{
   margin-left: 20px;
+  font-size: 30px;
 }
 body{
   background-color: #40916C;
@@ -130,7 +131,7 @@ img{
 }
 
 #ContainerRotas{
-  margin-top: -50px;
+  margin-top: 50px;
   height: 400px;
   display: flex;
   align-items: center;
@@ -143,6 +144,7 @@ img{
   display:  flex;
 }
 .cardcon{
+  border-radius: 15px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -169,6 +171,11 @@ img{
   overflow: hidden;
 }
 @media (max-width: 500px ) {
+  #cobrasvg{
+    float: right;
+    margin-right: -300px;
+    margin-top: -20px;
+  }
   *{
     margin: 0px ;
   }
@@ -188,7 +195,11 @@ img{
   #Menu a{
     text-decoration: none;
   }
-  
+  #Tucas{
+    margin-bottom: -50px;
+    margin-left: -35px;
+  }
+
   svg{
     margin-top: -5px;
     margin-left: 6px;
@@ -208,30 +219,31 @@ img{
   }
   .Carrosel{
     border-radius: 20px;
-    width: 180px;
+    width: 220px;
     height: 180px;
   }
   .Carrosel ul{
-    width: 540px;
+    width: 690px;
     height: 180px;
   }
   .Carrosel li{
     position: relative;
-    left: -180px;
+    left: -230px;
     animation: slide2 15s infinite ease-out;
   }
   img{
     border-radius: 20px;
-    width: 180px;
+    width: 220px;
     height: 180px;
   }
   @keyframes slide2{
     0%{left: 0px;}
-    33%{left: -192px;}
-    66%{left: -384px;}
+    33%{left: -230px;}
+    66%{left: -460px;}
     99%{left: 0px;}
     100%{left: 0px;}
   }
+
   body{
     overflow-x: hidden ;
   }
@@ -281,6 +293,11 @@ img{
     66%{left: -240px;}
     99%{left: 0px;}
     100%{left: 0px;}
+  }
+  #onca{
+    margin-top: 30px;
+    margin-right: 10px;
+    float: right;
   }
 }
 @keyframes slide{

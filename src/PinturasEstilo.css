@@ -88,3 +88,7 @@
   width: 240px;
   font-size: 14px;
 }
+#imagem2grafiteantes svg{
+  margin-left: -100px;
+  margin-top: 20px;
+}
