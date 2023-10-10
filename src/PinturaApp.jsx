@@ -30,12 +30,11 @@ export default function PinturaApp(){
       else if((larguraTabela<=440) && (larguraTabela >= 280)){
         SetAbelha([90,110])
           Setseila([130,130])
-  
-  
-        
-
       }
-
+        else{
+                SetAbelha([90,110])
+          Setseila([130,130])
+        }
     }
     window.addEventListener('resize', svg);
 
