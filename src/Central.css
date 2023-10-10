@@ -1,0 +1,1167 @@
+@media screen and (max-width: 500px ) {
+  #titulocentral{
+    margin-top: 100px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 220px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 230px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 480px ) {
+  #titulocentral{
+    margin-top: 50px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 220px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: 20px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 230px;
+      font-size: 20px;
+      margin-left: 19px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 460px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 200px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 620px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -200px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 200px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -210px;}
+    66%{left: -420px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 200px;
+      height: 180px;
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: -20px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 210px;
+      font-size: 20px;
+      margin-left: 17px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 440px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 590px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -190px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 190px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -200px;}
+    66%{left: -400px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 200px;
+      height: 180px;
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: 20px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 230px;
+      font-size: 20px;
+      margin-left: 17px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 420px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 190px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 590px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -200px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 190px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -200px;}
+    66%{left: -400px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  }
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 200px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 40px;
+    }
+    #fotocentral1{
+      margin-right: -20px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 230px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 400px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 560px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -190px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -190px;}
+    66%{left: -380px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 180px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 40px;
+    }
+    #fotocentral1{
+      margin-right: -30px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+
+@media screen and (max-width: 380px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 560px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -190px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -190px;}
+    66%{left: -380px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 180px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 40px;
+    }
+    #fotocentral1{
+      margin-right: -30px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: -10px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 230px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+
+
+@media screen and (max-width: 350px ) {
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 220px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: -50px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 340px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 170px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 530px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -190px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 170px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -180px;}
+    66%{left: -360px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width:160px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 80px;
+    }
+    #fotocentral1{
+      margin-right: -70px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 320px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 5600px;
+    height: 180px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -190px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 180px;
+    height: 180px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -190px;}
+    66%{left: -380px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 180px;
+      float: right;
+      margin-top: 20px;
+      margin-right: -10px;
+    }
+    #fotocentral1{
+      margin-right: -50px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 300px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 500px;
+    height: 160px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -170px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -170px;}
+    66%{left: -170px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 160px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: -80px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}
+@media screen and (max-width: 280px ) {
+  .Carrosel{
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+
+  }
+  .Carrosel ul{
+    display: flex;
+    width: 500px;
+    height: 160px;
+    gap: 10px;
+  }
+  .Carrosel li{
+    position: relative;
+    left: -170px;
+    animation: slide2 15s infinite ease-out;
+  }
+  .Carrosel img{
+    border-radius: 20px;
+    width: 160px;
+    height: 160px;
+  }
+  @keyframes slide2{
+    0%{left: 0px;}
+    33%{left: -170px;}
+    66%{left: -170px;}
+    99%{left: 0px;}
+    100%{left: 0px;}
+  } 
+
+  #titulocentral{
+    margin-top: 10px;
+  }
+#titulocentral2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+   }
+   
+   #TextoCentral2{
+    margin-top: 60px;
+     width: 96%;
+     margin-right: 20px;
+     margin-left: 20px;
+     margin-bottom: 120px;
+     font-size: 20px;
+   }
+   #centralfotosvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #centralfotosvg svg{
+    margin-top: 30px;
+  }
+    #FtCentral{
+      width: 160px;
+      
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+    }
+    #fotocentral1{
+      margin-right: -80px;
+      margin-top: -20px;
+      display: flex;
+      flex-direction: column;
+      float: right;
+    }
+    #fotocentral1 svg{
+      float: right;
+      margin-top: 20px;
+      margin-right: 20px;
+      z-index: 1;
+    }
+    #partecentral{
+      margin-top: 40px;
+      margin-bottom: 100px;
+    }
+    .DescCentral{
+      margin-top: 20px;
+      width: 200px;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+    #fotocentral2{
+      background-color: lightgray;
+      border-radius: 40px;
+      width: 180px;
+      height: 200px;
+      margin-top: 0px;
+      margin-left: 20px;
+      margin-bottom: 20px;
+  }
+  #txtcentral2{
+    float: right;
+width: 260px;
+text-align: right;
+margin-right: 40px;
+font-size: 20px;
+}
+    
+}

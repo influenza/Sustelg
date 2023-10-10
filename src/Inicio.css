@@ -1,0 +1,323 @@
+@media (min-width:1920px) {
+    #TitDescProj{
+        margin-top: 3%;
+        text-align: center;
+        margin-bottom: 3%;
+        font-size: 50px ;
+    }
+    #navbar{
+        margin-bottom: 30px;
+        height: 120px;
+    }
+    #tituloNav{
+        font-size: 50px;
+    }
+    #FtProjeto1{
+        float: left;
+        width: 600px;
+        height: 600px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        padding-top: 10px ;
+        margin-left: 100px;
+        margin-bottom: 20px;
+    }
+    #Mico{
+        margin-left: -11%;
+        margin-top: -20%;
+    }
+    .DescProjeto{
+        width: 800px;
+        float: right;
+        margin-right: 100px;
+        font-size: 36px;
+    }
+    #parte2{
+        margin-bottom: 100px;
+        margin-top: 50px;
+    }
+    #FtProjeto2{
+        float: right;
+        width: 800px;
+        height: 600px;
+        border:solid lightgray;
+        border-radius: 40px;
+        margin-right: 100px ;
+        margin-top: 30px;
+    }
+    #txtparte2{
+        width: 600px;
+        font-size: 36px;
+        margin-left: 100px;
+    }
+    #Introdução{
+        margin-bottom: 50px;
+    }
+    .DescCentral{
+        margin-bottom: 20px;
+        float: right;
+        width: 700px;
+        margin-right: 100px;
+        font-size: 36px;
+    }
+    .DescCentral p{
+        margin-bottom: 20px;
+    }
+    #titulocentral{
+        font-size: 50px;
+        text-align: right;
+        margin-bottom: 50px;
+        margin-right: 100px;
+    }
+    #FtCentral{
+        width: 700px;
+        height: 650px;
+        margin-left: 100px;
+    }
+    #tituloobj{
+        padding: 50px;
+        font-size: 50px;
+    }
+    #objetivoContainer{
+        margin-top: 80px;
+    }
+    #listaObjetivos{
+        margin-left: 100px;
+        margin-bottom: 20px;
+        font-size: 40px;
+    }
+    #listaObjetivos li{
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+    #txtobj{
+        margin-left: 100px;
+        width: 700px;
+        font-size: 36px;
+        margin-bottom: 50px;
+    }
+    #txtobj1{
+        margin-left: 100px;
+        width: 700px;
+        font-size: 36px;
+        margin-bottom: 50px;
+    }
+    #txtobj2{
+        margin-left: 100px;
+        width: 700px;
+        font-size: 36px;
+        margin-bottom: 50px;
+    }
+       #objetivo{
+        margin-top: 20px;
+        float: right;
+        background-color: red;
+        width: 800px;
+        height: 400px;
+        margin-right: 30px;
+        margin-top: -30px;
+    }
+    #parte1Sus{
+        margin-top: 20px;
+        float: right;
+        margin-right: 100px;
+        display: flex;
+    }
+    #titu{
+        text-align: center;
+    }
+    #Texto1Sus{
+        float: right;
+        width: 800px;
+        height: 200px;
+        text-align: justify;
+        font-size: 36px;
+    }
+    #FtProjeto1Sus{
+        margin-left: 100px;
+        margin-top: 50px;
+        background-color: red;
+        width: 680px;
+        height: 300px;
+        margin-right: 30px;
+        margin-top: 10px;
+        border-radius: 40px;
+    }
+    #Texto2Sus{
+        margin-left: 100px;
+        margin-top: 50px;
+        float: left;
+        width: 700px;
+        height: 200px;
+        text-align: justify;
+        font-size: 36px;
+    }
+    #FtProjeto2Sus{
+        float: right;
+        margin-right: 150px;
+        margin-top: 50px;
+        background-color: red;
+        width: 750px;
+        height: 300px;
+        margin-right: 30px;
+        margin-top: 10px;
+        border-radius: 40px;
+    }
+    #Simbolo3r{
+        float: left;
+        margin-top: 100px;
+        margin-left:-180px;
+    }
+    #SustentabilidadeConSus{
+        margin-bottom: 400px;
+    }
+    .cardcon{
+        padding: 1em;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #52B788;
+        width: 400px;
+        height: 600px;
+      }
+      .cardcon .button1{
+        width: 200px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+      }
+      .cardcon .Carrosel{
+        width: 350px;
+        height: 350px;
+      }
+      .cardcon .Carrosel ul{
+        width: 1050px;
+        height: 350px;
+      }
+      .cardcon .Carrosel li{
+        left: -380px;
+        animation: slide3 15s infinite ease-out;
+        margin-left: 30px;
+      }
+      .cardcon img{
+        border-radius: 20px;
+        width: 350px;
+        height: 350px;
+      }
+      @keyframes slide3{
+        0%{left: 0px;}
+        33%{left: -380px;}
+        66%{left: -760px;}
+        99%{left: 0px;}
+        100%{left: 0px;}
+      }
+      #CardconTit{
+        margin-bottom: 50px;
+        font-size: 36px;
+      }
+    #ContainerRotas{
+        height: 800px;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    #tireafoto{
+        text-align: center;
+        padding-bottom: 50px;
+        font-size: 50px;
+    }
+    #Texto1Insta{
+        width: 800px;
+        margin-left: 100px;
+        font-size: 36px;
+    }
+    #FtProjetoInsta{
+        float: right;
+        margin-right: 150px;
+        margin-top: 50px;
+        background-color: red;
+        width: 850px;
+        height: 300px;
+        margin-right: 30px;
+        margin-top: 10px;
+        border-radius: 40px;
+    }
+    #botaocon{
+        flex-direction: column;
+        width: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #botaocon p{
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+    #botao1Ins{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 150px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+    }
+    #selfie{
+        text-align: center;
+    justify-content: center;
+    align-items: center;
+        display: flex;
+        gap: 40px;
+        float: left;
+        margin-left: 100px;
+    }
+    #Rodape{
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 300px;
+        background-color: #135B3A;
+        margin-top: 500px;
+        
+        font-size: 28px;
+    }
+    #p1roda{
+        padding-top: 30px;
+        margin-left: 30px;
+    }
+    #patrocinos{
+        font-size: 28px;
+        padding-top: 20px;
+        margin-left: 40px;
+    }
+    
+    #patrocinos ul{
+        padding-top: 20px;
+        margin-left: 30px;
+    }
+    #patrocinos li{
+        font-size: 24px;
+        margin-left: 20px;
+    }
+    #Tucas{
+        float: left;
+    }
+    
+    
+}

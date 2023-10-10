@@ -1,0 +1,1 @@
+cors = CORS(app)

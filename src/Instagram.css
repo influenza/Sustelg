@@ -1,0 +1,807 @@
+@media (max-width:500px) {
+    #ContainerInstagram{
+        height: 400px   ;
+        margin-top: 100px;
+    }
+    #tireafoto{
+        padding: 20px;
+        font-size: 30px;
+    }
+    #FtProjetoInsta{
+
+        float: right;
+        width: 180px;
+        height: 240px;
+        border:solid lightgray;
+        background-color: lightgray;
+        border-radius: 40px;
+        margin-bottom: 40px;
+      }
+      #NossoInsta{
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+      #Texto1Insta{
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: 20px;
+        width: 300px;
+      }
+      #ContainerInstagram .button1{
+        width: 180px;
+        font-weight: bold;
+        color: white;
+        background-color: #3CA272;
+        padding: 1em 2em;
+        border: none;
+        border-radius: .6rem;
+        position: relative;
+        cursor: pointer;
+        overflow: hidden;
+        margin-bottom: 50px;
+      }
+      #PostIns{
+        margin-top: -70px;
+        border-radius: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        float: right;
+        background-color: white;
+        width: 200px;
+        height: 360px;
+        margin-right:20px ;
+      }
+      #Perfil{
+        margin: 10px auto;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+      #PostIns img{
+        margin-right: 20px;
+        border-radius: 100px;
+        width: 40px;
+        height: 40px;
+      }
+      #botao1Ins{
+        margin-bottom: 50px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      #selfie{
+        float: left;
+        margin-top: -20px;
+      }
+      #SecaodeComentarios{
+        margin-top: 250px;
+        padding-bottom: 20px;
+      }
+}
+
+@media screen and (max-width:480px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 30px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 180px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 20px;
+      width: 300px;
+    }
+    #ContainerInstagram .button1{
+      width: 180px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 200px;
+      height: 360px;
+      margin-right:25px;
+    }
+    #Perfil{
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+}
+
+
+@media (max-width:460px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 30px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 180px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 20px;
+      width: 300px;
+    }
+    #ContainerInstagram .button1{
+      width: 180px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 200px;
+      height: 360px;
+      margin-right:10px ;
+    }
+    #Perfil{
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      margin-top: -100px;
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+}
+
+
+@media (max-width:420px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 26px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 180px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 16px;
+    }
+    #Texto1Insta{
+      margin-left: 10px;
+      margin-right: 20px;
+      font-size: 16px;
+      width: 300px;
+    }
+    #ContainerInstagram .button1{
+      width: 180px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 200px;
+      height: 360px;
+      margin-right:20px ;
+    }
+    #Perfil{
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      margin-top: -80px;
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+}
+@media (max-width:400px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 20px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 130px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 15px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 15px;
+      width: 200px;
+    }
+    #ContainerInstagram .button1{
+      width: 180px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 160px;
+      height: 360px;
+      margin-right:10px ;
+    }
+    #Perfil{
+      font-size: 15px;
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+    #Titulo1{
+      margin-left: 200px;
+      margin-top: 100px;
+    }
+}
+@media (max-width:380px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 20px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 125px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 15px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 15px;
+      width: 200px;
+    }
+    #ContainerInstagram .button1{
+      width: 180px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 160px;
+      height: 360px;
+      margin-right:10px ;
+    }
+    #Perfil{
+      font-size: 15px;
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+    #Titulo1{
+      margin-left: 200px;
+      margin-top: 100px;
+    }
+}
+
+@media (max-width:360px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 20px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 120px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 15px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 15px;
+      width: 200px;
+    }
+    #ContainerInstagram .button1{
+      width: 150px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+      font-size: 15px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 160px;
+      height: 360px;
+      margin-right:10px ;
+    }
+    #Perfil{
+      font-size: 15px;
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+    #Titulo1{
+      margin-left: 200px;
+    }
+}
+
+@media (max-width:340px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+      padding: 20px;
+      font-size: 20px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 120px;
+      height: 240px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 15px;
+    }
+    #Texto1Insta{
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 15px;
+      width: 200px;
+    }
+    #ContainerInstagram .button1{
+      width: 150px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+      font-size: 15px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 160px;
+      height: 360px;
+      margin-right:-10px ;
+    }
+    #Perfil{
+      font-size: 15px;
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      float: left;
+    }
+    #SecaodeComentarios{
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+    #Titulo1{
+      margin-left: 200px;
+    }
+}
+
+@media (max-width:320px) {
+  #ContainerInstagram{
+      height: 400px   ;
+      margin-top: 100px;
+  }
+  #tireafoto{
+    text-align: center;
+    margin-top: 300px;
+      padding: 20px;
+      font-size: 20px;
+  }
+  #FtProjetoInsta{
+
+      float: right;
+      width: 0px;
+      height: 0px;
+      border:solid lightgray;
+      background-color: lightgray;
+      border-radius: 40px;
+      margin-bottom: 40px;
+    }
+    #NossoInsta{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-size: 18px;
+    }
+    #Texto1Insta{
+      text-align: center;
+      font-size: 15px;
+      width: 250px;
+    }
+    #ContainerInstagram .button1{
+      width: 150px;
+      font-weight: bold;
+      color: white;
+      background-color: #3CA272;
+      padding: 1em 2em;
+      border: none;
+      border-radius: .6rem;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      margin-bottom: 50px;
+      font-size: 15px;
+    }
+    #PostIns{
+      margin-top: -70px;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      float: right;
+      background-color: white;
+      width: 0px;
+      height: 0px;
+      margin-right:-60px ;
+    }
+    #Perfil{
+      opacity: 0;
+      font-size: 15px;
+      margin: 10px auto;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #PostIns img{
+      margin-right: 20px;
+      border-radius: 100px;
+      width: 40px;
+      height: 40px;
+    }
+    #botao1Ins{
+      margin-bottom: 50px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #selfie{
+      margin-top: -70px;
+      float: left;
+    }
+    #SecaodeComentarios{
+      opacity: 0;
+      margin-top: 250px;
+      padding-bottom: 20px;
+    }
+    #Titulo1{
+      margin-left: 140px;
+    }
+}

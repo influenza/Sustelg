@@ -1,0 +1,36 @@
+@media screen and (max-width:360px) {
+    #TitDescProj{
+        font-size: 24px;
+    }
+    .DescProjeto{
+        width: 140px;
+        font-size: 14px;
+    }
+    #titulocentral{
+        font-size: 24px;
+    }
+    .DescCentral{
+        width: 150px;
+    }
+    #txtobj {
+        float: right;
+        width: 150px;
+        padding-top: 40px;
+        margin-right: 20px;
+        font-size: 15px;
+    }
+
+#ContainerInstagram .button1 {
+    width: 150px;
+    font-weight: bold;
+    color: white;
+    background-color: #3CA272;
+    padding: 1em 2em;
+    border: none;
+    border-radius: 0.6rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+}

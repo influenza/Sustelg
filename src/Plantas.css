@@ -1,0 +1,5584 @@
+    @media (max-width: 500px) {
+        #plantasTitulo{
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+        }
+        #Lambari{
+            margin-top: -100px;
+        }
+        #LambariTi{
+            margin-left: 30px;
+            margin-bottom: 20px;
+            font-size: 30px;
+            padding-top: 10px;
+        }
+        #Texto4{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            margin-left: 30px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -250px;
+        }
+        #botao1plantas{
+
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            padding: 20px;
+            text-align: right   ;
+        }
+        #Texto5{
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 14px;
+        }
+        #FlorRoxa{
+            margin-left: 80px;
+            margin-top: -50px;
+        }
+        .Plantas{
+            margin-top: 50px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -10px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 180px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: 50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            float: right;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+
+            margin-top: 30px;
+            float: right;
+            width: 190px;
+            height: 180px;
+            border: solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 120px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            float: right;
+            margin-top: -120px;
+            margin-bottom: 30px;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: -20px;
+            width: 200px;
+            height: 280px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 200px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        #FtProjeto8 svg{
+            margin-top: -200px;
+            margin-left: 200px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 300px;
+        }
+        #FlorRosa{
+            margin-top: 70px;
+            margin-left: 150px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -160px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        
+        #botao1plantas button{
+            margin-bottom: 100px;
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 354px;
+            font-size: 18px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+    }   
+    @media (max-width: 480px) {
+        #Lambari{
+            margin-top: -100px;
+        }
+        #LambariTi{
+            margin-left: 20px;
+            font-size: 30px;
+            padding-top: 10px;
+        }
+        #Texto4{
+            margin-left: 20px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -250px;
+        }
+        #botao1plantas{
+
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            padding: 20px;
+            text-align: right   ;
+        }
+        #Texto5{
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 14px;
+        }
+        #FlorRoxa{
+            margin-left: 80px;
+            margin-top: -50px;
+        }
+        .Plantas{
+            margin-top: 50px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto06{
+            float: right;
+            width: 180px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: 50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            float: right;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+
+            margin-top: 30px;
+            float: right;
+            width: 190px;
+            height: 180px;
+            border: solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 120px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            float: right;
+            margin-top: -120px;
+            margin-bottom: 30px;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: -20px;
+            width: 200px;
+            height: 280px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 200px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        #FtProjeto8 svg{
+            margin-top: -200px;
+            margin-left: 200px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 300px;
+        }
+        #FlorRosa{
+            margin-top: 70px;
+            margin-left: 150px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -160px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        
+        #botao1plantas button{
+            margin-bottom: 100px;
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 250px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 354px;
+            font-size: 18px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+    }   
+    @media (max-width: 460px) {
+        #Lambari{
+            margin-top: -100px;
+        }
+        #LambariTi{
+            font-size: 30px;
+            padding-top: 10px;
+        }
+
+        #Texto4{
+            margin-left: 10px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -220px;
+        }
+        #botao1plantas{
+
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            font-size: 30px;
+            margin-top: 20px;
+            padding: 20px;
+            text-align: right   ;
+        }
+        #Texto5{
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 14px;
+        }
+        #FlorRoxa{
+            margin-left: 80px;
+            margin-top: -50px;
+        }
+        .Plantas{
+            margin-top: 50px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto06{
+            float: right;
+            width: 180px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: 50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            float: right;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 30px;
+            float: right;
+            width: 190px;
+            height: 180px;
+            border: solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left:120px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            font-size: 30px;
+            padding: 20px;
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            float: right;
+            margin-top: -120px;
+            margin-bottom: 30px;
+            margin-left: 20px;
+            width: 240px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: -20px;
+            width: 200px;
+            height: 280px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 200px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        #FtProjeto8 svg{
+            margin-top: -200px;
+            margin-left: 200px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 300px;
+        }
+        #FlorRosa{
+            margin-top: 70px;
+            margin-left: 150px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -160px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+font-family: Arial, Helvetica, sans-serif;
+    width: 180px;
+    font-weight: bold;
+    color: white;
+    background-color: #3CA272;
+    padding: 1em 2em;
+    border: none;
+    border-radius: 0.6rem;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    background-color: #3CA272;
+    margin-left: 20px;
+    margin-top: 50px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -30px;
+            margin-left: 200px;
+        }
+
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #botao1plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -40px;
+            margin-top: 50px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            margin-left: 40px;
+            padding: 20px;
+            font-size: 30px;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 354px;
+            font-size: 18px;
+            margin-left: 60px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotoslambari{
+            margin-right: 30px;
+            float: right;
+            display: flex ;
+            flex-direction: column;
+        }
+    }  
+
+    @media (max-width: 440px) {
+        #FtProjeto7 svg{
+            margin-top: -30px;
+            margin-left: 150px;
+        }
+        #Lambari{
+            margin-top: -100px;
+        }
+        #LambariTi{
+            font-size: 30px;
+            padding-top: 10px;
+        }
+        #Texto4{
+            margin-left: 10px;
+            width: 220px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -240px;
+        }
+        #botao1plantas{
+
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            font-size: 30px;
+            margin-top: 20px;
+            padding: 20px;
+            text-align: right   ;
+        }
+        #Texto5{
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 220px;
+            font-size: 14px;
+        }
+        #FlorRoxa{
+            margin-left: 80px;
+            margin-top: -50px;
+        }
+        .Plantas{
+            margin-top: 50px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto06{
+            float: right;
+            width: 180px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: 50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            float: right;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: 20px;
+        }
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: 10px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 160px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -16px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 30px;
+            float: right;
+            width: 160px;
+            height: 180px;
+            border: solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            float: right;
+            margin-top: -120px;
+            margin-bottom: 30px;
+            margin-right: 30px;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: -20px;
+            width: 200px;
+            height: 280px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 200px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        #FtProjeto8 svg{
+            margin-top: -200px;
+            margin-left: 200px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 300px;
+        }
+        #FlorRosa{
+            margin-top: 20px;
+            margin-left: 130px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -160px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 20px;
+            margin-top: 50px;
+        }
+        
+        #botao1plantas button{
+            
+            margin-bottom: 100px;
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 354px;
+            font-size:18px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+    }   
+    @media (max-width: 420px) {
+        #fotoslambari{
+            margin-right: -30px;
+            float: right;
+            display: flex ;
+            flex-direction: column;
+        }
+        #LambariTi{
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 200px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -20px;
+            width: 195px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -220px;
+        }
+        #botao1plantas{
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5{
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-right: 20px;
+            font-size: 18px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 80px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            width: 220px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 120px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-right: -0px;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -160px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 20px;
+            margin-top: 50px;
+        }
+        
+        #botao1plantas button{
+            margin-left: -30px;
+
+            margin-bottom: 100px;
+            margin-top: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: 0.6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;
+            background-color: #3CA272;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 20px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 94%;
+            font-size: 18px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+    }   
+    @media (max-width: 410px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -40px;
+        }
+        #LambariTi{
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 200px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            width: 175px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -220px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5{
+            padding-left: 50px;
+            width: 220px;
+            margin-top: -179px;
+            margin-bottom: 20px;
+            font-size: 18px;
+            float: right;
+        }
+        #Texto5 p{
+            width: 160px;
+            margin-left: 20px;
+        }
+        #Agapantus{
+            font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 210px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left:10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 160px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 160px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            margin-top: 400px;
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -230px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }   
+    @media (max-width: 400px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -40px;
+        }
+        #LambariTi{
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 200px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            width: 175px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -220px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5{
+            padding-left: 50px;
+            width: 220px;
+            margin-top: -179px;
+            margin-bottom: 20px;
+            font-size: 18px;
+            float: right;
+        }
+        #Texto5 p{
+            width: 160px;
+            margin-left: 20px;
+        }
+        #Agapantus{
+            font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 200px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 160px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 160px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            margin-top: 500px;
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -230px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }   
+    @media (max-width: 370px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -40px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 200px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 175px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -210px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 200px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-right: -20px;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 170px;
+            height: 170px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 10px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 50px;
+            margin-right: 20px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 90px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -350px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }   
+    @media (max-width: 380px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -40px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 200px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 175px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -210px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            width: 160px;
+            margin-left: 38px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 200px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -10px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+    width: 190px;
+    margin-right: 0px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 170px;
+            height: 170px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 10px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 50px;
+            margin-right: 20px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 90px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -350px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }   
+    @media (max-width: 360px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -40px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 160px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 175px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -150px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            margin-top: 10px;
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -30px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 60px;
+            margin-right: 10px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 120px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -320px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }  
+    @media (max-width: 340px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -3    0px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 2000px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 145px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -150px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            margin-top: 10px;
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -30px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 120px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -320px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }
+    @media (max-width: 320px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -35px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 2000px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 145px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -150px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            margin-top: 10px;
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -30px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 150px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 120px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -320px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }
+    @media (max-width: 300px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -35px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 2000px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 140px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -150px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            margin-top: 10px;
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -30px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 130px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 130px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 120px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -320px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }
+    @media (max-width: 280px) {
+        #fotoslambari{
+            float: right;
+            display: flex ;
+            flex-direction: column;
+            margin-right: -35px;
+        }
+        #LambariTi{
+            margin-top: 100px;
+            font-size: 30px;
+            padding: 20px;
+        }
+        #FtProjeto7 svg{
+            margin-top: -20px;
+            margin-left: 120px;
+        }
+
+        #Lambari{
+            margin-top: -50px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+        #Texto4{
+            margin-left: -10px;
+            width: 138px;
+            font-size: 18px;
+        }
+        #FtProjeto3 svg{
+            margin-top: 80px;
+            margin-left: -150px;
+        }
+        #botao1plantas{
+            margin-right: 40px;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #Azulzinhatitulo{
+            margin-top: 120px;
+            font-size: 30px;
+            padding: 20px;
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        #Texto5 p{
+            margin-top: 10px;
+            width: 160px;
+            margin-left: 40px;
+        }
+        #Texto5{
+       
+                padding-left: 50px;
+                width: 220px;
+                margin-top: -179px;
+                margin-bottom: 20px;
+                font-size: 18px;
+                float: right;
+            
+        }
+        #Texto5 #FtProjeto6{
+            margin-top: 60px;
+            margin-left: -200px;
+        }
+        #Agapantus{
+                        font-size: 30px;
+            padding: 20px ;
+        }
+        #Texto10{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-left: 20px;
+            width: 180px;
+            font-size: 18px;
+        }
+        #FlorRoxa{
+            margin-left: 50px;
+            margin-top: -50px;
+        }
+
+        .plantas #divpai{
+            margin-left: -120px;
+        }´
+        #abelinha{
+            margin-right: 100px;
+        }
+        #Texto10 button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+
+        }
+        #FtProjeto6 svg{
+            margin-top: -50px;
+            margin-left: -60px;
+        }
+        #FtProjeto5 svg{
+            margin-top: 160px;
+        }
+        #FtProjeto5{
+            float: left;
+            width: 190px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 10px;
+
+        }
+        #FtProjeto6{
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: -30px;
+            margin-top: 20px;
+        }
+        #FtProjeto2{
+            float: right;
+            width: 110px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+            margin-top: -20px;
+
+        }
+        #FtProjeto3{
+            margin-top: 20px;
+            float: right;
+            width: 110px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto2 svg{
+            margin-top: -50px;
+            margin-left: 80px;
+        }
+        #Gazania{
+            margin-top: 100px;
+        }
+        #Gazaniatitulo{
+            padding: 20px;
+            font-size: 30px;
+        }
+        #FtProjeto7{
+            margin-top: 20px;
+            float: left;
+            width: 230px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-left: 20px;
+        
+        }
+        #Bromelia{
+            margin-top: 100px;
+        }
+        #Texto6{
+            margin-top: -100px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 200px;
+            font-size: 18px;
+        }
+        #FtProjeto10 svg{
+            margin-top: 105px;
+            margin-left: 60px;
+        }
+        #botao7plantas {  
+            display: flex;
+            text-align: center;
+            align-items: center;
+            flex-direction: column;   
+    }
+        #botao7plantas button {
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Texto6 button{
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            margin-top: 40px;
+        }
+        #fotosgazania{
+            float: left;
+            margin-right: 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+        #Azulzinha{
+            margin-top: -50px;
+            margin-bottom: 100px;
+        }
+        #text5{
+            margin-left: 20px;
+            width: 200px;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+        #FtProjeto12{
+            float: right;
+            margin-top: 20px;
+            width: 180px;
+            height: 180px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto13{   
+            margin-left: 20px;
+            margin-top: 20px;
+            width: 180px;
+            height: 160px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #tituloimpatiens{
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        
+        #PetalaRosa{
+            margin-top: 140px;
+        }
+        #FlorRosa{
+            margin-top: -30px;
+            margin-left: 110px;
+        }
+        #botao1im button{
+            margin-top: 100px;
+            margin-right: -180px;
+            float: right;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 140px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+        }
+        #botao3plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            width: 160px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: 10px;
+            margin-top: 20px;
+        }
+        
+        #botao1plantas button{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 180px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            font-size: 18px;
+        }
+        #Introdução_Plantas{
+            font-size: 18px;
+            height: 500px;
+        }
+
+
+        #botao2plantas{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+        #botao2plantas button{
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 120px;
+            width: 150px;
+            font-weight: bold;
+            color: white;
+            background-color: #3CA272;
+            padding: 1em 2em;
+            border: none;
+            border-radius: .6rem;
+            position: relative;
+            cursor: pointer;
+            overflow: hidden;   
+            background-color: #3CA272;
+            margin-left: -320px;
+        }
+        #Introdução_Plantas #Texto2{
+            float: right;
+            width: 200px;
+            padding: 20px;
+            padding-top: 150px;
+            font-size: 14px;
+        }
+    
+        #beterraba{
+            float: right;
+            margin-top: -50px;
+        }
+        #Bromeliatitulo{
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        #Texto7{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 96%;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        #FtProjeto9{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #fotos{
+            margin-top: 40px;
+            margin-left: 20px;
+            display: flex;
+        }
+        #FtProjeto10{
+            margin-top: -20px;
+            width: 180px;
+            height: 200px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+        }
+        #FtProjeto06{
+            float: right;
+            width: 150px;
+            height: 250px;
+            border:solid lightgray;
+            background-color: lightgray;
+            border-radius: 40px;
+            margin-right: 20px;
+
+        }
+    }
