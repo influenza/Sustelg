@@ -10,7 +10,7 @@ export default function PinturaApp(){
     const [quadro, Setquadro] = useState([125,125])
     return(
        <>
-        <Navbar id2="Pintura"/>
+        <Navbar id2="Pintura" Abelha={abelha}/>
         <Pinturas/>
         <Rodape/>
        </>
